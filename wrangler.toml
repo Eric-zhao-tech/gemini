@@ -2,3 +2,5 @@ name = "gemini"
 main = "src/worker.mjs"
 compatibility_date = "2024-09-23"
 compatibility_flags = [ "nodejs_compat" ]
+[vars]
+GEMINI_API_KEY = "AIzaSyDDA034O147PHT7Gw5EuoH4ymxMh08_uHI"  # <-- 这里填你的 Gemini API 密钥
